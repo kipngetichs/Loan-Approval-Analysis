@@ -39,6 +39,8 @@ Using Power BI, I analyzed customer credit behavior, income stability, loan purp
 
 This helped uncover the strongest signals lenders rely on when approving customers.
 
+<img width="1425" height="795" alt="Image" src="https://github.com/user-attachments/assets/27d130fb-40e0-4b00-921b-19bd01e5a894" />
+
 # Results — Key Insights + What They Mean + Solutions
 Below are the final insights, why they matter, and how lenders can use them to create value and solve business risk problems.
 1. Approval Rate: 55%
